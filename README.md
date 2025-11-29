@@ -1,4 +1,4 @@
-# AmodIndane - Gas Agency Management System
+# AmodIndane - Gas Agency Portal
 
 AmodIndane is a comprehensive web-based application designed to streamline the daily operations of a gas distribution agency. It provides a dual-dashboard system for administrators and members (employees), enabling efficient management of customers, inventory, finances, and user activities.
 
